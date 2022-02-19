@@ -1,0 +1,30 @@
+body {
+	background-color: #BDDBD0;
+	font-style: #656839;
+}
+
+p{
+	color: #D17B88;
+}
+
+h1{
+	font-family:Serif;
+	text-align: center;
+	color: #D17B88;
+	border: solid;
+}
+
+
+.fav{
+	font-size: 12pt;
+	color: #D17B88;
+}
+
+h3{
+	font-family: arial;
+	color: #fef7f7;
+}
+
+.f:hover {
+  background-color: lightpink;
+}
